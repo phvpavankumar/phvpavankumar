@@ -1,128 +1,120 @@
-<h1 align="center"> Hello Nice to see < you/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
- 
+<div align="center">
 
-<p>
- <h2  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Pavan+Kumar;I'm+a+Data+Scientist;I+work+as+a+AI+engineer." /></a>
-</h2>
+# Pavan Kumar P H V
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### Senior Forward Deployed AI Engineer · Senior Applied AI Engineer
 
-<h3 align="centre">A passionate frontend Data Science developer from India, currently working in Artificial Intelligence and Data Science. Interested in GenAI, AI and Machine learning-related problems.</h3>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+**Agentic AI · Context Engineering · LLM Systems · AI Evaluation · Enterprise AI · SAP/ERP · Cloud**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phvpavankumar&label=Profile%20views&color=0e75b6&style=flat" alt="phvpavankumar" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan%20Kumar%20P%20H%20V-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-phv/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pavankumarphv.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://pavankumarphv.com)
+[![Email](https://img.shields.io/badge/Email-phvpavankumar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phvpavankumar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-phvpavankumar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/phvpavankumar)
 
+</div>
 
+---
 
-<p align="left"> <a href="https://twitter.com/kumarphv" target="blank"><img src="https://img.shields.io/twitter/follow/kumarphv?logo=twitter&style=for-the-badge" alt="kumarphv" /></a> </p>
+## About me
 
-- 📫 How to reach me **phvpavankumar@gmail.com**
+I build **production-grade AI systems** that connect models, enterprise data, backend services, and business workflows.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kumarphv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumarphv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/p h v pavan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p h v pavan kumar" height="30" width="40" /></a>
-</p>
+My work spans **Agentic AI, LLM systems, context engineering, AI evaluation and observability, cloud-native AI platforms, SAP/ERP data integration, and production ML**. I work end to end — from understanding ambiguous business requirements and designing the architecture to implementation, evaluation, deployment, troubleshooting, and stakeholder delivery.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-</p>
+I currently work at **Kearney** as a **Senior Integration Consultant – Analytics & Information Management (Applied AI / GenAI Engineering)**, building enterprise AI and analytics capabilities across finance, supply chain, operations, and process intelligence.
 
+Before moving deeper into enterprise GenAI, I built **real-time Computer Vision and Edge AI systems**, including GPU-optimized inference, embedded AI deployments, and scalable ML-serving platforms.
 
+> **What differentiates me:** I enjoy owning the full path from **business problem → architecture → production AI**.
 
+---
 
-<br>
+## What I work on
 
+- **Agentic AI & LLM Systems** — tool-calling agents, LangGraph orchestration, structured workflows, multi-step reasoning, guardrails, and human-in-the-loop patterns.
+- **Context Engineering & Retrieval** — hybrid vector + SQL retrieval, semantic search, pgvector, enterprise tools/APIs, conversation state, and grounded answer generation.
+- **AI Evaluation & Observability** — Langfuse tracing, regression testing, source-to-answer validation, failure analysis, and production reliability.
+- **Enterprise AI + SAP/ERP** — SAP Datasphere, OData analytical models, governed finance/supply-chain data, KPI lineage, reconciliation, and AI-assisted analytics.
+- **Backend & AI Platforms** — Python, FastAPI, PostgreSQL, Redis, async job orchestration, Docker, Kubernetes, APIs, and cloud-native deployment.
+- **Computer Vision & Edge AI** — YOLO, TensorRT, ONNX, OpenCV, Open3D, real-time inference, embedded deployment, and 3D vision.
 
+---
 
+## Selected engineering impact
 
+- Helped build and harden an **enterprise agentic analytics platform** integrating governed analytical tools, enterprise data, LLM orchestration, evaluation, and executive-facing outputs.
+- Built core backend and AI repository capabilities for a **process-intelligence platform** that converts business-process videos into structured documentation, BPMN diagrams, test cases, and searchable knowledge.
+- Implemented **hybrid retrieval** combining semantic/vector search with governed SQL, along with async knowledge ingestion and task-scoped conversational history.
+- Delivered **real-time multi-camera Computer Vision pipelines** using YOLO, TensorRT, and LightGlue with **sub-200 ms response times at 15–20 FPS**.
+- Built ML-serving and LLM-based operational intelligence systems, including workflows that reduced log investigation from hours to seconds and supported **1,000+ review cycles**.
 
+> Most of my current enterprise AI work is in private repositories because of client and employer confidentiality. Public repositories here primarily represent earlier independent and academic work.
 
+---
 
+## Technology stack
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
+### Applied AI / GenAI
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Orchestration-1C1C1C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-Agentic%20Systems-6E56CF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Hybrid%20Retrieval-5B5BD6?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-Evaluation%20%26%20Observability-F4A261?style=flat-square)
 
-  
-  
-  
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=phvpavankumar&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=phvpavankumar&theme=dark&hide_border=true" />
+### Backend / Data / Platform
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### Cloud / Enterprise
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-Datasphere%20%7C%20OData-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
-  
-</td>
+### ML / Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-<td width="50%" align="center">
+---
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=phvpavankumar&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+## Professional credentials
 
-<br>
+- **Google Cloud Certified – Professional Cloud Architect** — 2026
+- **Anthropic Claude Certified Architect – Professional** — 2026
+- **M.Tech in Data Science** — Amrita School of Engineering
+- **B.Tech in Mechanical Engineering** — Amrita School of Engineering
 
+---
 
+## Current focus
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phvpavankumar" alt="phvpavankumar" /></a> </p>
+I am especially interested in problems involving:
 
+**Agentic AI · Context Engineering · AI Evaluation · Enterprise LLM Systems · Forward Deployed AI · AI Platforms · SAP/ERP + AI · Production Reliability**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
+I also write about applied AI, enterprise systems, and business problems through **Finance × AI Weekly** at [pavankumarphv.com](https://pavankumarphv.com).
 
+---
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/pavan-kumar-phv](https://www.linkedin.com/in/pavan-kumar-phv/)
+- **Portfolio:** [pavankumarphv.com](https://pavankumarphv.com)
+- **GitHub:** [github.com/phvpavankumar](https://github.com/phvpavankumar)
+- **Email:** [phvpavankumar@gmail.com](mailto:phvpavankumar@gmail.com)
+
+<div align="center">
+
+### Building production enterprise AI systems — from architecture to measurable outcomes.
+
+![Profile Views](https://komarev.com/ghpvc/?username=phvpavankumar&label=Profile%20Views&style=flat-square)
+
+</div>
